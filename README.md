@@ -1,8 +1,7 @@
 # DreamData data science case
 
-Code & presentation in notebook.
+Code & presentation in notebook. Requires training data in the same folder to run the code in the notebook.
 
-Simply open the .html presentation and follow instructions.
+Clone and open the dreamdata.slides.html to see the presentation.
 
-Requires training data in the same folder to run.
 
